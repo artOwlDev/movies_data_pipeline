@@ -1,15 +1,3 @@
-Welcome to your new dbt project!
+# Project Architecture
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
-
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2930eb63-981e-47f1-a14d-240451e62d32" />
