@@ -4,5 +4,5 @@
 
 - **Storage**: Raw CSV files are stored in an S3 bucket.
 - **Ingestion**: Snowflake using its `RAW` schema.
-- **Transformation**: DBT using models for `STAGING` and `DEV` data.
+- **Transformation**: DBT using models for `STAGING` and `DEV` data. Stored data into dim and fct tables.
 - **Visualization**: Tableau.
