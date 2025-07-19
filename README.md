@@ -1,3 +1,3 @@
 # Project Architecture
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2930eb63-981e-47f1-a14d-240451e62d32" />
+<img width="1701" height="666" alt="Screenshot 2025-07-19 at 2 04 23 PM" src="https://github.com/user-attachments/assets/e3b94536-09d5-4b1f-aebb-f5b93cbe4c99" />
